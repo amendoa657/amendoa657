@@ -20,8 +20,8 @@
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
-<p>
-  <a><img width="500px" alt="Instagram" title="ZeGotinha" src="ZeGotinha.png"/></a>
+<p align="center">
+  <a align="center"><img width="500px" alt="Instagram" title="ZeGotinha" src="zeGotinha4.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
