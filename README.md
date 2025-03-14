@@ -10,7 +10,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img width="40px" alt="Instagram" title="Instagram" src="streamline_instagram-solid.png"/></a>
+  <a href="https://www.youtube.com/c/DevProTips"><img width="40px" alt="Instagram" title="Instagram" src="instagramIcon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
