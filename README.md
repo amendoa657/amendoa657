@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1"> <h3 align="center" style="font-size: 40px;"> Italo Cunha</h3> </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Verdana&size=30&duration=1&pause=1000&color=DADADA&background=FF000000&center=true&vCenter=true&random=true&width=435&lines=Italo+Cunha" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Instagram" title="Instagram" src="instagramIcon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="linkedinIcon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
