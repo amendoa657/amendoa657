@@ -9,13 +9,13 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Instagram" title="Instagram" src="instagramIcon.png"/></a>
+  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Instagram" title="Instagram" src="instagramIcon1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="linkedinIcon.png"/></a>
+  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="linkedinIcon1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <!--<a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;-->
-  <a href="https://twitter.com/DenverCoder1"><img width="26px" alt="Ze Gotinha" title="ZeGotinha" src="Gota.png"/></a>
+  <a href="https://twitter.com/DenverCoder1"><img width="26px" alt="Ze Gotinha" title="ZeGotinha" src="Gota1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
