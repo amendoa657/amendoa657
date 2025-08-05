@@ -9,9 +9,9 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Instagram" title="Instagram" src="instagramIcon1.png"/></a>
+  <a href="https://www.instagram.com/_italocunha_/"><img width="32px" alt="Instagram" title="Instagram" src="instagramIcon1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="linkedinIcon1.png"/></a>
+  <a href="https://www.linkedin.com/in/italo-cunha-028baa356/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="linkedinIcon1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <!--<a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;-->
