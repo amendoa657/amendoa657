@@ -1,10 +1,10 @@
 <p align="center">
-<a href=""><img src="https://readme-typing-svg.demolab.com?font=Verdana&size=30&duration=1&pause=1000&color=DADADA&background=FF000000&center=true&vCenter=true&random=true&width=435&lines=Italo+Cunha" alt="Typing SVG" /></a>
+<a href="https://github.com/amendoa657?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=Verdana&size=30&duration=1&pause=1000&color=DADADA&background=FF000000&center=true&vCenter=true&random=true&width=435&lines=Italo+Cunha" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<a href=""><img src="https://readme-typing-svg.demolab.com?font=Verdana&size=25&pause=1000&color=FFB246&background=FF000000&center=true&vCenter=true&random=true&width=435&lines=Back-end+Developer;Game+Developer;Always+learning;Front-end+Developer" alt="Typing SVG" /></a>
+<a href="https://github.com/amendoa657?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=Verdana&size=25&pause=1000&color=FFB246&background=FF000000&center=true&vCenter=true&random=true&width=435&lines=Back-end+Developer;Game+Developer;Always+learning;Front-end+Developer" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
