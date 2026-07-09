@@ -2,6 +2,7 @@
 <a href="https://github.com/amendoa657?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=Verdana&size=30&duration=1&pause=1000&color=DADADA&background=FF000000&center=true&vCenter=true&random=true&width=435&lines=Italo+Cunha" alt="Typing SVG" /></a>
 </p>
 
+
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <a href="https://github.com/amendoa657?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=Verdana&size=25&pause=1000&color=FFB246&background=FF000000&center=true&vCenter=true&random=true&width=435&lines=Back-end+Developer;Game+Developer;Always+learning;Front-end+Developer" alt="Typing SVG" /></a>
@@ -21,7 +22,7 @@
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
 <p align="center">
-  <!--<a align="center"><img width="500px" alt="Instagram" title="ZeGotinha" src="zeGotinha4.png"/></a> -->
+  <a align="center"><img width="500px" alt="Instagram" title="ZeGotinha" src="zeGotinha4.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
