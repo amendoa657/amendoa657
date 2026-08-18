@@ -12,6 +12,8 @@
 <a href="https://www.linkedin.com/in/italo-cunha-028baa356/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/_italocunha_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="mailto:italocisarpinheiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<!-- TODO: trocar "#" pelo link do portfólio quando publicado -->
+<a href="https://italocunhadev.site/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-FFB454?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Portfólio"/></a>
 
 <br/><br/>
 
@@ -121,6 +123,8 @@ perto o quanto eu tinha mudado no caminho.
   <a href="https://www.linkedin.com/in/italo-cunha-028baa356/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/amendoa657"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.instagram.com/_italocunha_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <!-- TODO: trocar "#" pelo link do portfólio quando publicado -->
+  <a href="#"><img src="https://img.shields.io/badge/Portf%C3%B3lio-FFB454?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Portfólio"/></a>
 </p>
 
 
