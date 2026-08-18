@@ -98,7 +98,7 @@ perto o quanto eu tinha mudado no caminho.
 ---
 
 
-## 📊 Estatísticas
+## Estatísticas
 
 <p align="center">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=amendoa657&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=FFB454&icon_color=FFB454&text_color=D5DCE4&ring_color=FFB454" alt="Estatísticas do GitHub" height="192"/>
@@ -114,7 +114,7 @@ perto o quanto eu tinha mudado no caminho.
 
 ---
 
-## ✉️ Contato
+## Contato
 
 <p align="center">
   <a href="mailto:italocisarpinheiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
