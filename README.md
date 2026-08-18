@@ -1,90 +1,126 @@
+<!-- Typing SVG por DenverCoder1 — https://github.com/DenverCoder1/readme-typing-svg -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&duration=4000&pause=900&color=FFB454&background=0D1117&center=true&vCenter=true&width=560&height=70&lines=Italo+Cunha" alt="Italo Cunha" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=1200&color=D5DCE4&background=0D1117&center=true&vCenter=true&width=560&height=40&lines=Desenvolvedor+de+Jogos;Desenvolvedor+Back-end;Desenvolvedor+Front-end;Programador+Competitivo" alt="cargos" />
+
+
+
+
+<a href="https://github.com/amendoa657"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/italo-cunha-028baa356/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/_italocunha_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="mailto:italocisarpinheiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
+
+</div>
+
+<br/>
+
+---
+
+
+
+##  Zé Gotinha
+
+
+<div align="center">
+  <img src="zeGotinha4.png" width="760" alt="Zé Gotinha voando pelo céu numa cena em pixel art" />
+</div>
+
+<br/>
+
+Fiz esse jogo em 2019, aos 10 anos, no GameMaker Studio 2 — e o resultado foi
+exatamente o que se espera de alguém de 10 anos. Anos depois eu lembrei dele
+e decidi refazê-lo do zero, agora na Godot, não pra lançar, mas pra ver de
+perto o quanto eu tinha mudado no caminho.
+
+É o projeto que melhor representa como eu aprendo: **sempre buscando evoluir.**
+
+<div align="center">
+
+<a href="https://github.com/amendoa657/ZeGotinhaGame"><img src="https://img.shields.io/badge/Godot%20Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=0D1117" alt="Godot Engine"/></a>
+<a href="https://github.com/amendoa657/ZeGotinhaGame"><img src="https://img.shields.io/badge/GDScript-355570?style=for-the-badge" alt="GDScript"/></a>
+
+<sub><a href="https://github.com/amendoa657/ZeGotinhaGame"><strong>→ ver o repositório</strong></a></sub>
+
+</div>
+
+<br/>
+
+---
+
+
+
+
+
+##  Stack
+
+
+**Competitiva**
+<br/>
+<a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Algoritmos-FFB454?style=for-the-badge" alt="Algoritmos"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Estruturas%20de%20Dados-FFB454?style=for-the-badge" alt="Estruturas de Dados"/></a>
+<a href="#"><img src="https://img.shields.io/badge/STL-FFB454?style=for-the-badge" alt="STL"/></a>
+
+**Gamedev**
+<br/>
+<a href="#"><img src="https://img.shields.io/badge/Godot%20Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=0D1117" alt="Godot Engine"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GDScript-355570?style=for-the-badge" alt="GDScript"/></a>
+<a href="#"><img src="https://img.shields.io/badge/C%23-9B4F96?style=for-the-badge" alt="C#"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Pygame"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GameMaker-71B937?style=for-the-badge" alt="GameMaker"/></a>
+
+**Web**
+<br/>
+<a href="#"><img src="https://img.shields.io/badge/Flask-3BABC3?style=for-the-badge&logo=flask&logoColor=0D1117" alt="Flask"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=0D1117" alt="Laravel"/></a>
+<a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=0D1117" alt="PHP"/></a>
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0D1117" alt="JavaScript"/></a>
+<a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL"/></a>
+
+**Sistema**
+<br/>
+<a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=0D1117" alt="Linux"/></a>
+<a href="#"><img src="https://img.shields.io/badge/CachyOS-00AA88?style=for-the-badge&logo=cachyos&logoColor=0D1117" alt="CachyOS"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=0D1117" alt="Hyprland"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Fish%20Shell-34C534?style=for-the-badge&logo=fishshell&logoColor=0D1117" alt="Fish Shell"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=0D1117" alt="Bash"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=0D1117" alt="Git"/></a>
+
+<br/>
+
+---
+
+
+## 📊 Estatísticas
+
 <p align="center">
-<a href="https://github.com/amendoa657?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=Verdana&size=30&duration=1&pause=1000&color=DADADA&background=FF000000&center=true&vCenter=true&random=true&width=435&lines=Italo+Cunha" alt="Typing SVG" /></a>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=amendoa657&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=FFB454&icon_color=FFB454&text_color=D5DCE4&ring_color=FFB454" alt="Estatísticas do GitHub" height="192"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=amendoa657&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=FFB454&text_color=D5DCE4" alt="Linguagens mais usadas" height="192"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amendoa657&bg_color=0D1117&color=D5DCE4&line=FFB454&point=FFFFFF&area=true&hide_border=true&area_color=FFB454" alt="Gráfico de atividade" width="100%"/>
 </p>
 
 
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<a href="https://github.com/amendoa657?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=Verdana&size=25&pause=1000&color=FFB246&background=FF000000&center=true&vCenter=true&random=true&width=435&lines=Back-end+Developer;Game+Developer;Always+learning;Front-end+Developer" alt="Typing SVG" /></a>
-</p>
+<br/>
 
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://www.instagram.com/_italocunha_/"><img width="32px" alt="Instagram" title="Instagram" src="instagramIcon1.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/italo-cunha-028baa356/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="linkedinIcon1.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <!--<a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;-->
-  <a href="https://github.com/amendoa657/ZeGotinhaGame"><img width="26px" alt="Ze Gotinha" title="ZeGotinha" src="Gota1.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
-</p>
-<p align="center">
-  <a align="center"><img width="500px" alt="Instagram" title="ZeGotinha" src="zeGotinha4.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+---
 
-
-<h3 align="center">💻 Software and Tools</h3>
+## ✉️ Contato
 
 <p align="center">
-      <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-      <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-      <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
-      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="Photopea" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white"></a>
-      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  <a href="mailto:italocisarpinheiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/italo-cunha-028baa356/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/amendoa657"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.instagram.com/_italocunha_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-<!-- GitHub Star link -->
-  <h3 align="center">👨‍💻 Programming and Markup Languages</h3>
-
-  <p align="center">
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-      <!--<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a> -->
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ascratch"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-  </p>
-
-
-
-
-
-
-
-
-
-<details> 
-  <summary><h2>📊 Stats and Activity</h2></summary>
-
-
-  <h3>💻 GitHub Profile Stats</h3>
-
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=amendoa657&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=amendoa657&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=amendoa657&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-
-
-</details>
 
