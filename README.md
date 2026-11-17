@@ -79,21 +79,21 @@ Uma identidade visual que virou ecossistema. O **Matugen** tira uma paleta do wa
 
 ## Projetos
 
-| Projeto | O que é | Stack |
-| --- | --- | --- |
-| **[HW Atendimento](https://github.com/amendoa657/hwAtendimentoDelphi)** | Sistema desktop de atendimentos: login com salt + SHA-256, perfis e permissões, log de ações, anexos e 8 migrations | `Delphi` `FireDAC` `MySQL` |
-| **[IndieSquad](https://github.com/amendoa657/indieSquad)** | Plataforma para montar equipes de jogos indie, com compatibilidade calculada — em grupo, back-end em 4 camadas | `Flask` `MySQL` `Mosaic UI` |
-| **[API Atendimento](https://github.com/amendoa657/ApiAtendimento)** | O mesmo domínio do HW, agora como API REST | `Java` `Spring Boot` `JPA` |
-| **[TuxAssist](https://github.com/amendoa657/tuxAssist)** | Assistente de voz para Linux: “hey jarvis” local, Whisper e notificação no GNOME | `Python` `ONNX` |
-| **[Zé Gotinha](https://github.com/amendoa657/ZeGotinhaGame)** | Feito aos 10 no GameMaker, refeito do zero na Godot pra medir a distância | `Godot` `GDScript` |
-| **[Raycasting Game](https://github.com/amendoa657/RaycastingGame)** | Wolfenstein em Pygame: cada coluna é um raio, a distância vira altura | `Python` `Pygame` |
-| **[Criptografia por Matrizes](https://github.com/amendoa657/Criptografia)** | A chave é uma matriz: codificar é multiplicar, voltar é a inversa | `C++` |
-| **[API REST em Laravel](https://github.com/amendoa657/laravelApiRest)** | Rotas, controllers, migrations e Eloquent — o caminho completo | `Laravel` `PHP` |
+<p align="center">
+<a href="https://github.com/amendoa657/hwAtendimentoDelphi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projetos/hw-atendimento-escuro.svg"><source media="(prefers-color-scheme: light)" srcset="assets/projetos/hw-atendimento-claro.svg"><img src="assets/projetos/hw-atendimento-escuro.svg" alt="HW Atendimento" width="49%"></picture></a>
+<a href="https://github.com/amendoa657/indieSquad"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projetos/indiesquad-escuro.svg"><source media="(prefers-color-scheme: light)" srcset="assets/projetos/indiesquad-claro.svg"><img src="assets/projetos/indiesquad-escuro.svg" alt="IndieSquad" width="49%"></picture></a>
+<br>
+<a href="https://github.com/amendoa657/ApiAtendimento"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projetos/api-atendimento-escuro.svg"><source media="(prefers-color-scheme: light)" srcset="assets/projetos/api-atendimento-claro.svg"><img src="assets/projetos/api-atendimento-escuro.svg" alt="API Atendimento" width="49%"></picture></a>
+<a href="https://github.com/amendoa657/tuxAssist"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projetos/tuxassist-escuro.svg"><source media="(prefers-color-scheme: light)" srcset="assets/projetos/tuxassist-claro.svg"><img src="assets/projetos/tuxassist-escuro.svg" alt="TuxAssist" width="49%"></picture></a>
+<br>
+<a href="https://github.com/amendoa657/ZeGotinhaGame"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projetos/ze-gotinha-escuro.svg"><source media="(prefers-color-scheme: light)" srcset="assets/projetos/ze-gotinha-claro.svg"><img src="assets/projetos/ze-gotinha-escuro.svg" alt="Zé Gotinha" width="49%"></picture></a>
+<a href="https://github.com/amendoa657/RaycastingGame"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projetos/raycasting-escuro.svg"><source media="(prefers-color-scheme: light)" srcset="assets/projetos/raycasting-claro.svg"><img src="assets/projetos/raycasting-escuro.svg" alt="Raycasting Game" width="49%"></picture></a>
+<br>
+<a href="https://github.com/amendoa657/Criptografia"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projetos/criptografia-escuro.svg"><source media="(prefers-color-scheme: light)" srcset="assets/projetos/criptografia-claro.svg"><img src="assets/projetos/criptografia-escuro.svg" alt="Criptografia por Matrizes" width="49%"></picture></a>
+<a href="https://github.com/amendoa657/laravelApiRest"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projetos/laravel-api-escuro.svg"><source media="(prefers-color-scheme: light)" srcset="assets/projetos/laravel-api-claro.svg"><img src="assets/projetos/laravel-api-escuro.svg" alt="API REST em Laravel" width="49%"></picture></a>
+</p>
 
-<div align="center">
-  <img src="zeGotinha4.png" width="420" alt="Zé Gotinha voando, em pixel art">
-  <br><sub>o Zé Gotinha, refeito na Godot — o projeto que melhor mostra como eu aprendo</sub>
-</div>
+<p align="center"><sub>cada quadrado é um repositório — clica pra abrir · <a href="https://github.com/amendoa657?tab=repositories">o resto está aqui</a></sub></p>
 
 <br>
 

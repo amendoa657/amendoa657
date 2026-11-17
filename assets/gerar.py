@@ -512,12 +512,94 @@ def tecla(nome_tema, rotulo, cor):
     return svg(w + 5, h + 6, corpo, css if cor == "a" else "", rotulo)
 
 
+# ---------------------------------------------------------------------------
+# 6. Cartões de projeto: um quadrado por projeto, como um pacote da loja
+# ---------------------------------------------------------------------------
+PROJETOS = [
+    ("hw-atendimento", "HW", "HW Atendimento", "Delphi · 2026", "Sistema desktop de atendimentos: login com salt + SHA-256, perfis e permissões, log de ações e anexos.", ["Delphi", "FireDAC", "MySQL"], "desktop"),
+    ("indiesquad", "IS", "IndieSquad", "Flask · 2026", "Equipes de jogos indie com compatibilidade calculada. Em grupo, back-end em 4 camadas e a Mosaic UI.", ["Flask", "MySQL", "JS"], "web"),
+    ("api-atendimento", "API", "API Atendimento", "Java · 2026", "O mesmo domínio do HW Atendimento, agora como API REST: clientes e equipamentos.", ["Spring Boot", "JPA", "MySQL"], "back-end"),
+    ("tuxassist", "TX", "TuxAssist", "Python · 2026", "Assistente de voz para Linux: “hey jarvis” local, Whisper e resposta numa notificação do GNOME.", ["Python", "ONNX", "Whisper"], "linux"),
+    ("ze-gotinha", "ZG", "Zé Gotinha", "Godot · 2019 → 2023", "Feito aos 10 anos no GameMaker, refeito do zero na Godot só pra medir a distância.", ["Godot", "GDScript", "pixel art"], "jogo"),
+    ("raycasting", "RC", "Raycasting Game", "Python · 2025", "Wolfenstein em Pygame: cada coluna da tela é um raio, a distância vira altura.", ["Python", "Pygame"], "jogo"),
+    ("criptografia", "C++", "Criptografia por Matrizes", "C++ · 2025", "A chave é uma matriz: codificar é multiplicar, voltar é multiplicar pela inversa.", ["C++", "álgebra linear"], "algoritmo"),
+    ("laravel-api", "PHP", "API REST em Laravel", "PHP · 2026", "Rotas, controllers, migrations e Eloquent — o caminho completo dentro do framework.", ["Laravel", "PHP"], "back-end"),
+]
+
+
+def quebrar(texto, tam, largura_max):
+    linhas, atual = [], ""
+    for palavra in texto.split():
+        teste = (atual + " " + palavra).strip()
+        if largura_sg(teste, tam, 400) > largura_max and atual:
+            linhas.append(atual)
+            atual = palavra
+        else:
+            atual = teste
+    if atual:
+        linhas.append(atual)
+    return linhas
+
+
+def cartao(nome_tema, i, projeto):
+    _, sigla, nome, meta, desc, pilha, tipo = projeto
+    T = TEMAS[nome_tema]
+    L, A = 600, 236
+    tk = TONS[i % 4]
+    tom, sobre = T[tk], T["sobre_" + tk]
+    corpo = f'<rect x="1" y="1" width="{L - 2}" height="{A - 2}" fill="{T["cartao"]}" stroke="{T["linha"]}" stroke-width="2"/>'
+    # retícula no canto, como o cartão de destaque da loja
+    pontos = ""
+    for j in range(9):
+        for k in range(16):
+            x = L - 20 - k * 12
+            y = 20 + j * 12
+            forca = (1 - k / 16) * (1 - j / 9)
+            if forca < 0.08:
+                continue
+            r = 0.6 + forca * 2.2
+            pontos += f'<rect x="{x - r:.1f}" y="{y - r:.1f}" width="{2 * r:.1f}" height="{2 * r:.1f}"/>'
+    corpo += f'<g fill="{tom}" opacity=".45" class="ret">{pontos}</g>'
+    # o ícone: um bloco chapado com a sigla, com sombra de objeto
+    corpo += f'<rect x="28" y="34" width="72" height="72" fill="{T["sombra"]}" opacity=".6" transform="translate(0 6)"/>'
+    corpo += f'<rect class="icone" x="28" y="34" width="72" height="72" fill="{tom}"/>'
+    tam_sigla = 30 if len(sigla) <= 2 else 23
+    corpo += f'<text class="jb" x="64" y="{70 + tam_sigla * 0.36:.0f}" font-size="{tam_sigla}" font-weight="700" text-anchor="middle" fill="{sobre}">{esc(sigla)}</text>'
+    corpo += f'<text class="sg" x="122" y="64" font-size="27" font-weight="700" letter-spacing="-.8" fill="{T["texto"]}">{esc(nome)}</text>'
+    corpo += f'<text class="jb" x="122" y="92" font-size="13" fill="{T["texto3"]}">{esc(meta)}</text>'
+    tw = largura_mono(tipo.upper(), 10.5) + 16
+    corpo += f'<rect x="{L - 28 - tw:.0f}" y="34" width="{tw:.0f}" height="22" fill="{T["fundo"]}" stroke="{tom}" stroke-width="1.5"/>'
+    corpo += f'<text class="jb" x="{L - 28 - tw / 2:.0f}" y="49" font-size="10.5" letter-spacing="1" font-weight="700" text-anchor="middle" fill="{tom}">{tipo.upper()}</text>'
+    for n, linha in enumerate(quebrar(desc, 15.5, L - 56)[:2]):
+        corpo += f'<text class="sg" x="28" y="{142 + n * 22}" font-size="15.5" fill="{T["texto2"]}">{esc(linha)}</text>'
+    cx = 28
+    for k, item in enumerate(pilha):
+        w = largura_mono(item, 12) + 20
+        if k == 0:
+            corpo += f'<rect x="{cx}" y="{A - 52}" width="{w:.0f}" height="26" fill="{tom}"/>'
+            corpo += f'<text class="jb" x="{cx + 10}" y="{A - 34}" font-size="12" font-weight="700" fill="{sobre}">{esc(item)}</text>'
+        else:
+            corpo += f'<rect x="{cx + 0.75}" y="{A - 51.25}" width="{w - 1.5:.0f}" height="24.5" fill="none" stroke="{T["linha"]}" stroke-width="1.5"/>'
+            corpo += f'<text class="jb" x="{cx + 10}" y="{A - 34}" font-size="12" fill="{T["texto"]}">{esc(item)}</text>'
+        cx += w + 8
+    corpo += f'<text class="jb" x="{L - 28}" y="{A - 34}" font-size="13" text-anchor="end" fill="{T["texto3"]}">abrir ↗</text>'
+    css = (
+        ".icone{transform-box:fill-box;transform-origin:center;animation:gira 7s cubic-bezier(.77,0,.175,1) infinite " + f"{i * 0.6:.1f}s" + "}"
+        "@keyframes gira{0%,88%{transform:none}94%,100%{transform:rotate(90deg)}}"
+        ".ret{animation:pulsa 5s ease-in-out infinite}@keyframes pulsa{50%{opacity:.18}}"
+    )
+    return svg(L, A, corpo, css, f"{nome}: {desc}")
+
+
 def main():
+    (SAIDA / "projetos").mkdir(exist_ok=True)
     for nome_tema in TEMAS:
         (SAIDA / f"heroi-{nome_tema}.svg").write_text(heroi(nome_tema), encoding="utf-8")
         (SAIDA / f"sei-fazer-{nome_tema}.svg").write_text(sei_fazer(nome_tema), encoding="utf-8")
         (SAIDA / f"evolucao-{nome_tema}.svg").write_text(evolucao(nome_tema), encoding="utf-8")
         (SAIDA / f"agora-{nome_tema}.svg").write_text(agora(nome_tema), encoding="utf-8")
+        for i, projeto in enumerate(PROJETOS):
+            (SAIDA / "projetos" / f"{projeto[0]}-{nome_tema}.svg").write_text(cartao(nome_tema, i, projeto), encoding="utf-8")
         for chave, rotulo, cor in TECLAS:
             (SAIDA / f"tecla-{chave}-{nome_tema}.svg").write_text(tecla(nome_tema, rotulo, cor), encoding="utf-8")
     print("pronto")
