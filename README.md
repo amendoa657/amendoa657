@@ -1,130 +1,129 @@
-<!-- Typing SVG por DenverCoder1 — https://github.com/DenverCoder1/readme-typing-svg -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&duration=4000&pause=900&color=FFB454&background=0D1117&center=true&vCenter=true&width=560&height=70&lines=Italo+Cunha" alt="Italo Cunha" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/heroi-escuro.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/heroi-claro.svg">
+  <img src="assets/heroi-escuro.svg" alt="Italo Cunha — o nome se montando em pixels, o mascote da Mosaic piscando e o que eu faço se alternando" width="100%">
+</picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=1200&color=D5DCE4&background=0D1117&center=true&vCenter=true&width=560&height=40&lines=Desenvolvedor+de+Jogos;Desenvolvedor+Back-end;Desenvolvedor+Front-end;Programador+Competitivo" alt="cargos" />
-
-
-
-
-<a href="https://github.com/amendoa657"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/italo-cunha-028baa356/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/_italocunha_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="mailto:italocisarpinheiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<!-- TODO: trocar "#" pelo link do portfólio quando publicado -->
-<a href="https://italocunhadev.site/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-FFB454?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Portfólio"/></a>
-
-<br/><br/>
-
+<a href="https://italocunhadev.site/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tecla-portfolio-escuro.svg"><source media="(prefers-color-scheme: light)" srcset="assets/tecla-portfolio-claro.svg"><img src="assets/tecla-portfolio-escuro.svg" alt="Portfólio" height="58"></picture></a>
+<a href="mailto:italocisarpinheiro@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tecla-email-escuro.svg"><source media="(prefers-color-scheme: light)" srcset="assets/tecla-email-claro.svg"><img src="assets/tecla-email-escuro.svg" alt="E-mail" height="58"></picture></a>
+<a href="https://www.linkedin.com/in/italo-cunha-028baa356/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tecla-linkedin-escuro.svg"><source media="(prefers-color-scheme: light)" srcset="assets/tecla-linkedin-claro.svg"><img src="assets/tecla-linkedin-escuro.svg" alt="LinkedIn" height="58"></picture></a>
+<a href="https://www.instagram.com/_italocunha_/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tecla-instagram-escuro.svg"><source media="(prefers-color-scheme: light)" srcset="assets/tecla-instagram-claro.svg"><img src="assets/tecla-instagram-escuro.svg" alt="Instagram" height="58"></picture></a>
 
 </div>
 
-<br/>
+<br>
 
----
+### Eu sou o Italo.
 
+Faço **jogos** desde os 10 anos, escrevo **back-end**, construo sistemas **desktop** e desenho **interfaces** que mudam de cor com o wallpaper. Aprendo do jeito mais lento e mais certo: *refazendo até entender*.
 
+- 🟩 criei a **[Mosaic](#a-mosaic)** — um desktop, uma loja e uma biblioteca de interface para Linux, todos com a cara do seu wallpaper
+- 🟪 fiz um sistema de atendimentos completo em **Delphi**, com usuário, permissão, log e anexos
+- 🟦 estou aprendendo **Rust** — e o próximo back-end vai ser em **Go**
+- ⬜ Linux desde 2021, Arch desde 2022, CachyOS + Hyprland hoje — Windows, nunca mais
 
-##  Zé Gotinha
+> Este README é tema claro **e** escuro: no GitHub escuro ele vem no tema **Mosaic**; no claro, no tema **Papel** — igual ao meu [portfólio](https://italocunhadev.site/).
 
+<br>
+
+## O que eu sei fazer
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sei-fazer-escuro.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/sei-fazer-claro.svg">
+  <img src="assets/sei-fazer-escuro.svg" alt="Sete áreas: back-end e APIs, banco de dados, desktop e sistemas, front-end e interface, jogos, algoritmos, Linux e ferramentas — cada uma com as ferramentas marcadas por nível" width="100%">
+</picture>
+
+<br>
+
+## A Mosaic
+
+Uma identidade visual que virou ecossistema. O **Matugen** tira uma paleta do wallpaper e tudo se pinta com ela. As regras são poucas e rígidas: **calma, rápida e legível** — blocos chapados, teclas que afundam, um campo de pontos atrás de tudo e a onda de pixels em toda troca de tela.
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/amendoa657/mosaicOS"><img src="https://raw.githubusercontent.com/amendoa657/mosaicOS/HEAD/docs/media/themes-tour.webp" alt="Mosaic OS trocando de tema: os widgets se redesenham" width="100%"></a><br>
+      <strong><a href="https://github.com/amendoa657/mosaicOS">Mosaic OS</a></strong><br>
+      <sub>Um shell em Quickshell para o Hyprland: ilha líquida, dock de vidro e temas que trocam as cores <em>e</em> as formas.</sub><br>
+      <sub><code>QML</code> <code>Hyprland</code> <code>Matugen</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/amendoa657/mosaicStore"><img src="https://raw.githubusercontent.com/amendoa657/mosaicStore/HEAD/assetsReadme/mosaic-descobrir.gif" alt="Mosaic Store: cartões de pacotes caem como teclas" width="100%"></a><br>
+      <strong><a href="https://github.com/amendoa657/mosaicStore">Mosaic Store</a></strong><br>
+      <sub>Uma loja de pacotes para o Arch: busca local em SQLite FTS5, AUR, PKGBUILD e o build ao vivo, sem abrir terminal.</sub><br>
+      <sub><code>Python</code> <code>Flask</code> <code>pywebview</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/amendoa657/mosaicStore/tree/main/mosaic-ui"><img src="https://raw.githubusercontent.com/amendoa657/mosaicStore/HEAD/assetsReadme/mosaic-tema.gif" alt="O wallpaper troca e a interface se repinta numa onda de pixels" width="100%"></a><br>
+      <strong><a href="https://github.com/amendoa657/mosaicStore/tree/main/mosaic-ui">Mosaic UI</a></strong><br>
+      <sub>A identidade virou biblioteca: sem build, sem dependência, sem framework. Um Web Worker desenha todos os pixels.</sub><br>
+      <sub><code>HTML</code> <code>CSS</code> <code>JS</code></sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## Agora compilando
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/agora-escuro.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/agora-claro.svg">
+  <img src="assets/agora-escuro.svg" alt="Fila de compilação: Delphi instalado, Rust compilando, Go na fila, Spring Boot instalado" width="100%">
+</picture>
+
+<br>
+
+## Projetos
+
+| Projeto | O que é | Stack |
+| --- | --- | --- |
+| **[HW Atendimento](https://github.com/amendoa657/hwAtendimentoDelphi)** | Sistema desktop de atendimentos: login com salt + SHA-256, perfis e permissões, log de ações, anexos e 8 migrations | `Delphi` `FireDAC` `MySQL` |
+| **[IndieSquad](https://github.com/amendoa657/indieSquad)** | Plataforma para montar equipes de jogos indie, com compatibilidade calculada — em grupo, back-end em 4 camadas | `Flask` `MySQL` `Mosaic UI` |
+| **[API Atendimento](https://github.com/amendoa657/ApiAtendimento)** | O mesmo domínio do HW, agora como API REST | `Java` `Spring Boot` `JPA` |
+| **[TuxAssist](https://github.com/amendoa657/tuxAssist)** | Assistente de voz para Linux: “hey jarvis” local, Whisper e notificação no GNOME | `Python` `ONNX` |
+| **[Zé Gotinha](https://github.com/amendoa657/ZeGotinhaGame)** | Feito aos 10 no GameMaker, refeito do zero na Godot pra medir a distância | `Godot` `GDScript` |
+| **[Raycasting Game](https://github.com/amendoa657/RaycastingGame)** | Wolfenstein em Pygame: cada coluna é um raio, a distância vira altura | `Python` `Pygame` |
+| **[Criptografia por Matrizes](https://github.com/amendoa657/Criptografia)** | A chave é uma matriz: codificar é multiplicar, voltar é a inversa | `C++` |
+| **[API REST em Laravel](https://github.com/amendoa657/laravelApiRest)** | Rotas, controllers, migrations e Eloquent — o caminho completo | `Laravel` `PHP` |
 
 <div align="center">
-  <img src="zeGotinha4.png" width="760" alt="Zé Gotinha voando pelo céu numa cena em pixel art" />
+  <img src="zeGotinha4.png" width="420" alt="Zé Gotinha voando, em pixel art">
+  <br><sub>o Zé Gotinha, refeito na Godot — o projeto que melhor mostra como eu aprendo</sub>
 </div>
 
-<br/>
+<br>
 
-Fiz esse jogo em 2019, aos 10 anos, no GameMaker Studio 2 — e o resultado foi
-exatamente o que se espera de alguém de 10 anos. Anos depois eu lembrei dele
-e decidi refazê-lo do zero, agora na Godot, não pra lançar, mas pra ver de
-perto o quanto eu tinha mudado no caminho.
+## A evolução
 
-É o projeto que melhor representa como eu aprendo: **sempre buscando evoluir.**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/evolucao-escuro.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/evolucao-claro.svg">
+  <img src="assets/evolucao-escuro.svg" alt="A evolução de 2019 até hoje como um grafo de commits: GameMaker, Ubuntu, Artix, Zé Gotinha, C++, matemática, FTC, back-end, Mosaic Store, TuxAssist, Delphi, Mosaic OS e hoje" width="100%">
+</picture>
+
+<br>
+
+## Números
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/?username=amendoa657&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=0&bg_color=0f0d15&title_color=86d7ac&icon_color=e9b9d3&text_color=e6e0ec&ring_color=86d7ac">
+    <source media="(prefers-color-scheme: light)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/?username=amendoa657&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=0&bg_color=efebe2&title_color=e5432d&icon_color=2a5bd7&text_color=161513&ring_color=e5432d">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=amendoa657&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=0&bg_color=0f0d15&title_color=86d7ac&icon_color=e9b9d3&text_color=e6e0ec&ring_color=86d7ac" alt="Estatísticas do GitHub" height="180">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=amendoa657&langs_count=8&layout=compact&hide_border=true&border_radius=0&bg_color=0f0d15&title_color=86d7ac&icon_color=e9b9d3&text_color=e6e0ec&ring_color=86d7ac">
+    <source media="(prefers-color-scheme: light)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=amendoa657&langs_count=8&layout=compact&hide_border=true&border_radius=0&bg_color=efebe2&title_color=e5432d&icon_color=2a5bd7&text_color=161513&ring_color=e5432d">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=amendoa657&langs_count=8&layout=compact&hide_border=true&border_radius=0&bg_color=0f0d15&title_color=86d7ac&icon_color=e9b9d3&text_color=e6e0ec&ring_color=86d7ac" alt="Linguagens mais usadas" height="180">
+  </picture>
+</p>
+
+<br>
 
 <div align="center">
-
-<a href="https://github.com/amendoa657/ZeGotinhaGame"><img src="https://img.shields.io/badge/Godot%20Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=0D1117" alt="Godot Engine"/></a>
-<a href="https://github.com/amendoa657/ZeGotinhaGame"><img src="https://img.shields.io/badge/GDScript-355570?style=for-the-badge" alt="GDScript"/></a>
-
-<sub><a href="https://github.com/amendoa657/ZeGotinhaGame"><strong>→ ver o repositório</strong></a></sub>
-
+<sub>feito na estética da Mosaic ✦ os SVGs deste README são gerados por <a href="assets/gerar.py"><code>assets/gerar.py</code></a></sub>
 </div>
-
-<br/>
-
----
-
-
-
-
-
-##  Stack
-
-
-**Competitiva**
-<br/>
-<a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Algoritmos-FFB454?style=for-the-badge" alt="Algoritmos"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Estruturas%20de%20Dados-FFB454?style=for-the-badge" alt="Estruturas de Dados"/></a>
-<a href="#"><img src="https://img.shields.io/badge/STL-FFB454?style=for-the-badge" alt="STL"/></a>
-
-**Gamedev**
-<br/>
-<a href="#"><img src="https://img.shields.io/badge/Godot%20Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=0D1117" alt="Godot Engine"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GDScript-355570?style=for-the-badge" alt="GDScript"/></a>
-<a href="#"><img src="https://img.shields.io/badge/C%23-9B4F96?style=for-the-badge" alt="C#"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Pygame"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GameMaker-71B937?style=for-the-badge" alt="GameMaker"/></a>
-
-**Web**
-<br/>
-<a href="#"><img src="https://img.shields.io/badge/Flask-3BABC3?style=for-the-badge&logo=flask&logoColor=0D1117" alt="Flask"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=0D1117" alt="Laravel"/></a>
-<a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=0D1117" alt="PHP"/></a>
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0D1117" alt="JavaScript"/></a>
-<a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL"/></a>
-
-**Sistema**
-<br/>
-<a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=0D1117" alt="Linux"/></a>
-<a href="#"><img src="https://img.shields.io/badge/CachyOS-00AA88?style=for-the-badge&logo=cachyos&logoColor=0D1117" alt="CachyOS"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=0D1117" alt="Hyprland"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Fish%20Shell-34C534?style=for-the-badge&logo=fishshell&logoColor=0D1117" alt="Fish Shell"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=0D1117" alt="Bash"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=0D1117" alt="Git"/></a>
-
-<br/>
-
----
-
-
-## Estatísticas
-
-<p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=amendoa657&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=FFB454&icon_color=FFB454&text_color=D5DCE4&ring_color=FFB454" alt="Estatísticas do GitHub" height="192"/>
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=amendoa657&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=FFB454&text_color=D5DCE4" alt="Linguagens mais usadas" height="192"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amendoa657&bg_color=0D1117&color=D5DCE4&line=FFB454&point=FFFFFF&area=true&hide_border=true&area_color=FFB454" alt="Gráfico de atividade" width="100%"/>
-</p>
-
-
-<br/>
-
----
-
-## Contato
-
-<p align="center">
-  <a href="mailto:italocisarpinheiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/italo-cunha-028baa356/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/amendoa657"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.instagram.com/_italocunha_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <!-- TODO: trocar "#" pelo link do portfólio quando publicado -->
-  <a href="#"><img src="https://img.shields.io/badge/Portf%C3%B3lio-FFB454?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Portfólio"/></a>
-</p>
-
-
