@@ -19,10 +19,8 @@
 
 Faço **jogos** desde os 10 anos, escrevo **back-end**, construo sistemas **desktop** e desenho **interfaces** que mudam de cor com o wallpaper. Aprendo do jeito mais lento e mais certo: *refazendo até entender*.
 
-- 🟩 criei a **[Mosaic](#a-mosaic)** — um desktop, uma loja e uma biblioteca de interface para Linux, todos com a cara do seu wallpaper
-- 🟪 fiz um sistema de atendimentos completo em **Delphi**, com usuário, permissão, log e anexos
-- 🟦 estou aprendendo **Rust** — e o próximo back-end vai ser em **Go**
-- ⬜ Linux desde 2021, Arch desde 2022, CachyOS + Hyprland hoje — Windows, nunca mais
+- E se ainda nao deu pra entender, eu  **amo** linux
+
 
 > Este README é tema claro **e** escuro: no GitHub escuro ele vem no tema **Mosaic**; no claro, no tema **Papel** — igual ao meu [portfólio](https://italocunhadev.site/).
 
